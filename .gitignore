@@ -1,5 +1,12 @@
+# Visual Studio Code
+.vscode
+*.code-workspace
+
 # Visual Studio 2015 user specific files
 .vs/
+
+# Visual Studio 2015 database file
+*.VC.db
 
 # Compiled Object files
 *.slo
@@ -72,3 +79,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+cmake-build-debug/*
+.idea
